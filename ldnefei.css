@@ -9,4 +9,8 @@ body {
     width: 150px;
     height: 150px;
 }
+
+.col-md-9 col-xs-12 {
+    background: rgba(44,44,44,0.5);
+}
     
