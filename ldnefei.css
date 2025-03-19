@@ -1,0 +1,10 @@
+body {
+    background: #000000 url('https: //i.ibb.co/BK4mK52R/ivan-bandura-w-Q00u-Un8-Og-unsplash.jpg') !important;
+    color: #FFFFFF !important;
+    font-family: sans-serif;
+}
+
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
+    content: url('https://i.ibb.co/kV5yHfyd/Moon-Transparent-PNG-Clip-Art-639687983.png');
+    width: 100px;
+}
