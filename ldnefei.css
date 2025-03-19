@@ -1,7 +1,7 @@
 body {
     background: #000000 url('https://i.ibb.co/BK4mK52R/ivan-bandura-w-Q00u-Un8-Og-unsplash.jpg') !important;
     color: #FFFFFF !important;
-    position: absolute !important;
+    position: fixed !important;
 }
 
 .navbar-brand.visible-lg.visible-md {
@@ -10,7 +10,7 @@ body {
     height: 150px;
 }
 
-.col-md-9 col-xs-12 {
-    background: rgba(44,44,44,0.5);
+.col-md-9.col-xs-12 {
+    background: rgba(44,44,44,0.5) !important;
 }
     
